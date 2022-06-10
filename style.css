@@ -1,0 +1,35 @@
+body{
+    background-color: blueviolet;
+    font-family: ;
+    font-weight: ;
+}
+.productos h1
+
+
+.buttonP{
+    border: solid;
+    right: 16px;
+    bottom: 15px;
+    position: absolute;
+    color: black;
+}
+.contenido{
+    background-color: #DBC04E;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.principal{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #8F7500;
+}
+
+.productos{
+    margin: 15px;
+    padding: 2px 16px;
+    }
+.productos img{
+    width: 150px;
+}
